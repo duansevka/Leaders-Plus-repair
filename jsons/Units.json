@@ -34,7 +34,7 @@
 	"uniques": [
         "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet> <without [Siam bonus]> <without [Abu Bakr bonus]>",
         "Can instantly construct a [Siamese Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet> <with [Siam bonus]>",
-        "Can [Spread Religion] [4] times",
+        "Can Spread Religion <[4] times> <after which this unit is consumed>", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
         "Can instantly construct a [Holy site] improvement <[1] times> <with [Abu Bakr bonus]>",		
         "Removes other religions when spreading religion",
         "May found a religion",
